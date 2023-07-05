@@ -4,7 +4,7 @@
 
 For similar usage, you may install like:
 ```bash
-pip install git+https://github.com/shijianjian/EfficientNet-PyTorch-3D
+pip install git+https://github.com/eigenvivek/EfficientNet-PyTorch-3D
 ```
 
 ```python
